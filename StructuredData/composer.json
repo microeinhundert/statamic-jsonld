@@ -1,0 +1,14 @@
+{
+    "name": "leonseipp/structured-data",
+    "description": "Structured data for statamic.",
+    "require": {
+        "torann/json-ld": "^0.0.13"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Leon",
+            "email": "l.seipp@microeinhundert.com"
+        }
+    ]
+}

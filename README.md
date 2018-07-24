@@ -7,5 +7,5 @@
 2. Run `php please update:addons` to download the dependencies required by this addon.
 
 ## Use
-Just insert the `{{ structured_data:breadcrumb }}` tag anywhere in your template to output the JSON-LD breadcrumb of the current page.
+Just insert the `{{ structured_data:breadcrumb }}` tag anywhere in your template to output the JSON-LD breadcrumb for the current page.
 (https://developers.google.com/search/docs/data-types/breadcrumb)

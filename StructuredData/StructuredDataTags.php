@@ -12,7 +12,7 @@ class StructuredDataTags extends Tags
     /**
      * The {{ structured_data:breadcrumb }} tag
      *
-     * @return string|array
+     * @return string
      */
     public function breadcrumb()
     {
